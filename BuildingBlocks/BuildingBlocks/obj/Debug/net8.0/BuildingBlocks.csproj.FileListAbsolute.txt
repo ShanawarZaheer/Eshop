@@ -1,0 +1,12 @@
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll

@@ -1,0 +1,1 @@
+C:\Users\shanawar.z\Desktop\Learning Projects\Eshop_Microservices\eshop_Microservices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
