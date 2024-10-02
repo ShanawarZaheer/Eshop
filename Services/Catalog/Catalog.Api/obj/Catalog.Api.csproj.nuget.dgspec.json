@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {}
+    "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
+    "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectUniqueName": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
         "projectName": "BuildingBlocks",
-        "projectPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\shanawar.z\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\BuildingBlocks\\BuildingBlocks\\obj\\",
+        "outputPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\BuildingBlocks\\BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shanawar.z\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
+    "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+        "projectUniqueName": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
         "projectName": "Catalog.Api",
-        "projectPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+        "projectPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
         "packagesPath": "C:\\Users\\shanawar.z\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\Services\\Catalog\\Catalog.Api\\obj\\",
+        "outputPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\Services\\Catalog\\Catalog.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shanawar.z\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
-                "projectPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj"
+              "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
+                "projectPath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj"
               }
             }
           }

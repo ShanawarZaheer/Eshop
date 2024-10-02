@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/PivzF62/gc=",
+  "dgSpecHash": "EKZMXgqe8L4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\Eshop_Microservices\\eshop_Microservices\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+  "projectFilePath": "C:\\Users\\shanawar.z\\Desktop\\Learning Projects\\New folder\\Eshop\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shanawar.z\\.nuget\\packages\\carter\\8.2.1\\carter.8.2.1.nupkg.sha512",
     "C:\\Users\\shanawar.z\\.nuget\\packages\\carter.analyzers\\8.2.1\\carter.analyzers.8.2.1.nupkg.sha512",
